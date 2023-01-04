@@ -1,4 +1,4 @@
-# Project-11-Pachinko
+# Pachinko. Hacking with Swift
 
 https://www.hackingwithswift.com/read/11/overview
 
