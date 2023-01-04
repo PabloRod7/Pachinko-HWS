@@ -1,6 +1,6 @@
 # Pachinko. Hacking with Swift
 
-https://www.hackingwithswift.com/read/11/overview
+Dive into SpriteKit to try your hand at fast 2D games
 
 # Topics 
 SpriteKit, Nodes, UITouch, Physics Body, SKAction, Collisions, Emitters
